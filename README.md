@@ -1,5 +1,5 @@
-# Mario
-Created for fun 
+# Mario Overview
+Created for practice with Kaboom.js
 # Important Note
 Just hit reload to restart or when hit by evil shroom and use the latest version of Kaboom.js
 # License
