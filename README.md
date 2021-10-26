@@ -1,15 +1,14 @@
 # Mario
-# There Only Two Levels
-Just hit reload to restart or when hit by evil shroom
-# All Credit Goes to Anna Kubow
-
+Created for fun 
+# Important Note
+Just hit reload to restart or when hit by evil shroom and use the latest version of Kaboom.js
+# License
+Source code came from Anna Kubow
+Project is licensed under MIT, just say where you got the source code from
+# Dev Dependencies/ Add-On
+Kaboom.js, JavaScript, Prettier+, ESLint, GoogleDevTools, HTML and JavaScript snippets
 # Getting Started
-This Project was created using Kaboom and JavaScript
-The purpose was for practice and to create a fun project
-
-# To Get Started Create Two Files
-One a HTML file and the other a JavaScript File
-May Use the above two files as a template
-
+i. Create a HTML file 
+ii. Create another file for JavaScript, this will store the Kaboom.js code
 # Deploy
 Used Vercel to deploy the game
